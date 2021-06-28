@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "FORMATION SUR L'ANALYSE DE DONNEES AVEC R"
+author: "Priestley"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
